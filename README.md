@@ -1,2 +1,2 @@
-# datacamp-r
- excercises and projects from the datacamp platform
+# datacamp-exercises-r
+ various excercie solutions from the datacamp r 
